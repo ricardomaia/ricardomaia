@@ -21,7 +21,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: forgedhallpass
+          user: ricardomaia
           template: classic
           base: header, activity, repositories, metadata
           config_timezone: UTC
@@ -45,7 +45,6 @@ jobs:
           plugin_notable: yes
           plugin_notable_from: all
           plugin_notable_indepth: yes
-          plugin_notable_skipped: aramrami/OWASP-CSRFGuard
           plugin_notable_types: commit
           repositories_affiliations: owner, maintainer, member, collaborator
           repositories_forks: yes
