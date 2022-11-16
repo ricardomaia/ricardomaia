@@ -27,7 +27,8 @@ jobs:
           # Options
           user: ricardomaia
           template: classic
-          base: header, activity, community, repositories, metadata
+          filename: metrics.plugin.calendar.svg
+          base: ""
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
           plugin_achievements_display: detailed
