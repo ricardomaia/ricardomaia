@@ -93,6 +93,9 @@
                         <svg class="calendar" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0,0 795,260">
                             <g transform="translate(0, 14)">
                                 <text x="0" y="0">2024</text>
+                                <g transform="translate(0, 0)">
+                                    <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                </g>
                             </g>
                             <g transform="translate(0, 144)">
                                 <text x="0" y="0">2023</text>
@@ -1017,7 +1020,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.46m out of 56.1m repositories</span>
+                                    <span class="gh">ranked 1.46m out of 62.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 14 stars</div>
                             </div>
@@ -1063,7 +1066,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.40m out of 56.1m repositories</span>
+                                    <span class="gh">ranked 3.39m out of 62.2m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
