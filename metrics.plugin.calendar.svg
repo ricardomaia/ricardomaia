@@ -21,14 +21,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="98.58406672343112" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="98.58406672343112" y="0" width="70.2035301350183" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="168.7875968584494" y="0" width="64.85618759883096" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="233.64378445728036" y="0" width="64.84257728128976" height="8" fill="#1d365d"/>
-                    <rect mask="url(#languages-bar)" x="298.4863617385701" y="0" width="59.133805201508316" height="8" fill="#ff6347"/>
-                    <rect mask="url(#languages-bar)" x="357.62016694007843" y="0" width="58.67256666261207" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="416.29273360269053" y="0" width="26.50080051022253" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="442.79353411291305" y="0" width="17.206465887086964" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="97.52634317679198" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="97.52634317679198" y="0" width="69.45030571094055" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="166.97664888773255" y="0" width="64.1603356315858" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="231.13698451931833" y="0" width="64.14687134122545" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="295.2838558605438" y="0" width="62.97847014439963" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="358.2623260049434" y="0" width="58.49934955119032" height="8" fill="#ff6347"/>
+                    <rect mask="url(#languages-bar)" x="416.76167555613375" y="0" width="26.216469363861062" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="442.9781449199948" y="0" width="17.021855080005203" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -57,15 +57,15 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#ff6347" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Stylus
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         PHP
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#ff6347" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Stylus
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1052,7 +1052,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.40m out of 91.5m repositories</span>
+                                    <span class="gh">ranked 1.40m out of 90m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 15 stars</div>
                             </div>
@@ -1098,7 +1098,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.42m out of 91.5m repositories</span>
+                                    <span class="gh">ranked 3.42m out of 90m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
