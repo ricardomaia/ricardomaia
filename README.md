@@ -1,6 +1,26 @@
 ### Hi 👋, I'm Ricardo Maia. 
 A part-time security researcher and developer.
 
+### These are some of my projects
+
+#### MailTest
+
+Service to provide a query base for domains that offer free or disposable email addresses.
+
+https://mailtest.app
+
+#### Crimes Cibernéticos
+
+Collaborative project to assist Incident Response Teams in identifying possible Cyber Crimes and other violations of State or Federal District regulations. (Brazilian law) 
+
+https://crimes-ciberneticos.info
+
+#### Lofty Tools
+
+Simple browser-based tools. No data is sent to the server.
+
+https://lofty.tools
+
 [![@brainfork's Holopin board](https://holopin.me/brainfork)](https://holopin.io/@brainfork)
 
 <img src="https://raw.githubusercontent.com/ricardomaia/ricardomaia/output/snake.svg" alt="Snake animation" />
