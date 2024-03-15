@@ -11,7 +11,7 @@ https://mailtest.app
 
 #### Crimes Cibernéticos
 
-Collaborative project to assist Incident Response Teams in identifying possible Cyber Crimes and other violations of State or Federal District regulations. (Brazilian law) 
+Collaborative project to assist Incident Response Teams in identifying possible Cyber Crimes and other normative violations. (Brazilian law) 
 
 https://crimes-ciberneticos.info
 
