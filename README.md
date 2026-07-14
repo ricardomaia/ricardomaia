@@ -15,12 +15,6 @@ Collaborative project to assist Incident Response Teams in identifying possible 
 
 https://crimes-ciberneticos.info
 
-#### Lofty Tools
-
-Simple browser-based tools. No data is sent to the server.
-
-https://lofty.tools
-
 [![@brainfork's Holopin board](https://holopin.me/brainfork)](https://holopin.io/@brainfork)
 
 <img src="https://raw.githubusercontent.com/ricardomaia/ricardomaia/output/snake.svg" alt="Snake animation" />
